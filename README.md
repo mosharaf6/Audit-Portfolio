@@ -1,10 +1,12 @@
 ## Parvez Mosharaf (0xMosh) — Smart Contract Security Researcher
-Platforms: Code4rena · Sherlock · Immunefi · Cantina · CodeHawks
-Contact: [pmosharafsmail@gmail.com](mailto:pmosharafsmail@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mosharaff) • [GitHub](https://github.com/mosharaf6) • [Public Findings](https://audits.sherlock.xyz/watson/0xMosh)
----
-### Summary
-Freelance Blockchain Security Researcher with a track record of **25+ successful audit contest placements**. My expertise lies in manual code review, threat modeling, and advanced testing to secure high-profile DeFi protocols and smart contract ecosystems.
----
+**Platforms:** Code4rena · Sherlock · Immunefi · Cantina · CodeHawks
+
+**Contact:** <kbd>[Email](mailto:pmosharafsmail@gmail.com)</kbd> <kbd>[LinkedIn](https://www.linkedin.com/in/mosharaff)</kbd> <kbd>[GitHub](https://github.com/mosharaf6)</kbd> <kbd>[Public Findings](https://audits.sherlock.xyz/watson/0xMosh)</kbd>
+
+## Summary
+
+Independent Blockchain Security Researcher with a track record of **25+ Audit Contest Wins**. My expertise lies in manual code review, threat modeling, and advanced testing to secure high-profile DeFi protocols and smart contract ecosystems.
+
 ### Key Achievements & Competitive Placements
 With over **50 vulnerabilities** identified, my competitive audit performance includes consistent top-tier placements across multiple platforms.
 | Rank | Contest | Platform |
@@ -52,7 +54,7 @@ This table details my performance in various public audit contests, sorted by ra
 - **Web3 Development:** Ethers.js, Web3.js, React.js, Next.js, JSON-RPC, Git
 ---
 ## Professional Experience
-- **Freelance Security Researcher** (Feb 2023 – Present)
+- **Independent Security Researcher** (Feb 2023 – Present)
   - Conducted **25+** in-depth smart contract audits for protocols on Code4rena, Sherlock, and other platforms.
   - Identified **50+** vulnerabilities, including critical flaws in major protocols such as **Venus, NounsDAO, Badger eBTC, Dopex,** and **Ondo Finance.**
   - Authored comprehensive vulnerability reports with actionable remediation guidance.
