@@ -1,11 +1,11 @@
-# Parvez Mosharaf (0xMosh) — Smart Contract Security Researcher
-Platforms: Code4rena · Sherlock · Immunefi · Cantina · CodeHawks  
+## Parvez Mosharaf (0xMosh) — Smart Contract Security Researcher
+Platforms: Code4rena · Sherlock · Immunefi · Cantina · CodeHawks
 Contact: [pmosharafsmail@gmail.com](mailto:pmosharafsmail@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mosharaff) • [GitHub](https://github.com/mosharaf6) • [Public Findings](https://audits.sherlock.xyz/watson/0xMosh)
 ---
-## Summary
+### Summary
 Freelance Blockchain Security Researcher with a track record of **25+ successful audit contest placements**. My expertise lies in manual code review, threat modeling, and advanced testing to secure high-profile DeFi protocols and smart contract ecosystems.
 ---
-## Key Achievements & Competitive Placements
+### Key Achievements & Competitive Placements
 With over **50 vulnerabilities** identified, my competitive audit performance includes consistent top-tier placements across multiple platforms.
 | Rank | Contest | Platform |
 | :--- | :--- | :--- |
